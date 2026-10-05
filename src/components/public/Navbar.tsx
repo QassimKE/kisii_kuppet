@@ -43,7 +43,7 @@ const Navbar = () => {
             <img src={logo} alt="Kisii KUPPET" className="h-9 w-9 rounded-lg object-contain" />
             <div className="flex flex-col leading-tight">
               <span className="font-heading text-base font-bold text-foreground tracking-tight">
-                KUPPET <span className="text-primary">Kisii</span>
+                KUPPET <span className="text-primary">KISII</span>
               </span>
               <span className="text-[10px] text-muted-foreground font-medium hidden sm:block">Welfare Management System</span>
             </div>

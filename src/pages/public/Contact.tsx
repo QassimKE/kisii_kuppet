@@ -60,17 +60,21 @@ const Contact = () => {
                 {
                   icon: MapPin,
                   title: "Office Address",
-                  lines: ["Ngeka Centre, 1st Floor — Room 9", "Kisii Town, Kisii County, Kenya"],
+                  lines: [
+                    "Magsons Plaza Building, 1st Floor Room 2",
+                    "Opposite KCB Bank, Hospital Road",
+                    "P. O Box 217-40200, Kisii",
+                  ],
                 },
                 {
                   icon: Mail,
                   title: "Email",
-                  lines: ["kuppet.kisii@gmail.com"],
+                  lines: ["kuppet.kisiicounty@yahoo.com"],
                 },
                 {
                   icon: Phone,
                   title: "Phone",
-                  lines: ["+254 721 488 995"],
+                  lines: ["Tel: 058-30140", "Cell: 0725 877 663"],
                 },
                 {
                   icon: Clock,

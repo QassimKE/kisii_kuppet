@@ -15,9 +15,9 @@ const Footer = () => (
             Empowering Kisii teachers through welfare support and collective advocacy.
           </p>
           <div className="mt-4 space-y-1.5 text-xs text-muted-foreground">
-            <div className="flex items-center gap-1.5"><MapPin className="h-3 w-3 shrink-0" /> Ngeka Centre, 1st Floor — Room 9, Kisii Town</div>
-            <div className="flex items-center gap-1.5"><Phone className="h-3 w-3 shrink-0" /> +254 721 488 995</div>
-            <div className="flex items-center gap-1.5"><Mail className="h-3 w-3 shrink-0" /> kuppet.kisii@gmail.com</div>
+            <div className="flex items-center gap-1.5"><MapPin className="h-3 w-3 shrink-0" /> Magsons Plaza, 1st Floor Room 2, Hospital Road, Kisii</div>
+            <div className="flex items-center gap-1.5"><Phone className="h-3 w-3 shrink-0" /> 058-30140 / 0725 877 663</div>
+            <div className="flex items-center gap-1.5"><Mail className="h-3 w-3 shrink-0" /> kuppet.kisiicounty@yahoo.com</div>
           </div>
         </div>
 
